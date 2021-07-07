@@ -261,3 +261,25 @@ textarea {
   }
 }
 
+/*
+ * Custom styles
+ */
+html
+{
+  padding: 10px;
+}
+
+body
+{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 10px auto;
+  max-width: 900px;
+}
+
+blockquote
+{
+  background: gold;
+  margin:0;
+  padding: 10px;
+  text-align: center;
+}
